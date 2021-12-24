@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MaxGuilds:jar">
+    <output-path>$PROJECT_DIR$/../Spigot/Test server/plugins</output-path>
+    <root id="archive" name="MaxGuilds.jar">
+      <element id="module-output" name="MaxGuilds" />
+    </root>
+  </artifact>
+</component>
